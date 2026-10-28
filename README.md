@@ -24,4 +24,4 @@ and Blue Team security.
 - CompTIA Security+ — In Progress (when applicable)
 
 ### Connect
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: https://www.linkedin.com/in/abdullah-fadl-elmoula-b8a812359/
